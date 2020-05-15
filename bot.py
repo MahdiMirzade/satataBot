@@ -92,9 +92,9 @@ try:
 except KeyboardInterrupt:
     sys.exit()
 try:
-    client.send_message(superadmin, f"**Bot started at:**  {datetime.now().strftime('`%c`')}")
+    client.send_message(superadmin, f"**Bot Started at:**  {datetime.now().strftime('`%c`')}")
 except ValueError:
     pass
 
-print(f"Bot started at:  {datetime.now().strftime('%c')}")
+print(f"Satata started at:  {datetime.now().strftime('%c')}")
 client.run_until_disconnected()
