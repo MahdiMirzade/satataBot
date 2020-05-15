@@ -5,7 +5,6 @@
 ### <p align="right"> نیازمندی ها ###
 <p align="right" dir="rtl"> برای نصب موارد موردنیاز از دستور زیر کمک بگیرید.
 <p align="right" dir="rtl"> <code>pip install -r requirements.txt</code>
-<p align="right" dir="rtl"> * همچنین باید tmux روی توزیع لینوکس شما نصب باشد.
 
 ### <p align="right">  نصب آسان ###
 
