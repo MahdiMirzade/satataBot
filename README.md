@@ -8,7 +8,7 @@
 
 ### <p align="right">  نصب آسان ###
 
-<p align="right" dir="rtl"> * پس از نصب نیازمندی ها با دستور بالا، وارد فایل <code>config.ini</code> شوید و توکن ربات خود را در خط دوم قرار داده و بجای مقادیر ID و HASH، اطلاعات گرفته شده از my.telegram.org را وارد کنید..
+<p align="right" dir="rtl"> * پس از نصب نیازمندی ها با دستور بالا، وارد فایل <code>config.ini</code> شوید و توکن ربات خود را در خط دوم قرار داده و بجای مقادیر ID و HASH، اطلاعات گرفته شده از my.telegram.org را وارد کنید.
 <p align="right" dir="rtl"> * سپس با دستور <code>python bot.py</code> ربات را اجرا کنید.
 <p align="right" dir="rtl"> * موفق باشید. 
 
