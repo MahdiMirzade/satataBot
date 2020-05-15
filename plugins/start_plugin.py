@@ -18,7 +18,8 @@ async def on_start(event):
             "این ربات برای حذف حساب های پاک شده است."
             + "نیازمند دسترسی `ban user` در گفتگوی شماست.\n\n"
             + "[پشتیبانی](https://t.me/MSXadmin)\n"
-            + "ارسال /help برای اطلاعات بیشتر.",
+            + "ارسال /help برای اطلاعات بیشتر.\n\n"
+            + "⚡️ @MSXtm",
             link_preview=False)
 
 
@@ -33,7 +34,8 @@ async def added_to_group(event):
         if me == u.id:
             response = await event.respond(
                 "من بطور خودکار هر ساعت گروه ها را برای بررسی حساب های کاربری حذف شده بررسی میکنم.\n"
-                + "[پشتیبانی](https://t.me/MSXadmin)\n",
+                + "[پشتیبانی](https://t.me/MSXadmin)\n\n"
+                + "⚡️ @MSXtm",
                 link_preview=False)
 
     if not response:
