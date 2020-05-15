@@ -15,7 +15,7 @@
 
 ### <p align="right" dir="rtl"> دستورات ###
 
-<p align="center"> <img src="https://github.com/MSXtm/ScreenShots/blob/master/PassGenRobot_presets.png" alt="دستورات درون ربات">
+<p align="center"> <img src="https://github.com/MSXtm/ScreenShots/blob/master/satataBot_commands.png" alt="دستورات درون ربات">
 
 `/start` – شروع کار ربات
 
