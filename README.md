@@ -12,6 +12,7 @@
 <p align="right" dir="rtl"> * سپس با دستور <code>python bot.py</code> ربات را اجرا کنید.
 <p align="right" dir="rtl"> * موفق باشید. 
 
+### <p align="right">  درحال ضبط آموزش ویدئویی ###
 
 ### <p align="right" dir="rtl"> دستورات ###
 
