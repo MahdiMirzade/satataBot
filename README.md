@@ -25,14 +25,3 @@
 
 `/stats` or `/statistics` – آمار و ارقام
 
-### <p align="right"> رمز های سفارشی ###
-
-<p align="center"> <img src="https://github.com/MSXtm/ScreenShots/blob/master/PassGenRobot_settings.png" alt="تنظیمات رمز سفارشی درون ربات">
-
-<p align="center" dir="rtl"> کلمه های دلخواه خود را با دستور /settings وارد کنید و رمز های خودتون رو با دستور /generate ایجاد کنید.
-
-### <p align="right"> حالت اینلاین ###
-
-<p align="center"> <img src="https://github.com/MSXtm/ScreenShots/blob/master/PassGenRobot_inline.png" alt="حالت اینلاین ربات">
-
-<p align="center" dir="rtl"> همچنین میتوانید از این ربات برای تولید رمز ها با پیچیدگی های مختلف در حالت اینلاین استفاده کنید.
